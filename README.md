@@ -3,7 +3,7 @@ I am trying to become Java Developer[<img src='https://cdn.jsdelivr.net/npm/simp
 
 ### Skills
 * Java
-* Spring/Spring boot
+* Spring
 * Hibernate
 * SQL
 * HTML/CSS/JS
