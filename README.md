@@ -6,7 +6,6 @@ I am trying to become Java Developer[<img src='https://cdn.jsdelivr.net/npm/simp
 * Spring
 * Hibernate
 * SQL
-* HTML/CSS/JS
 
 ### Tools
 * Maven
