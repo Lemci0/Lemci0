@@ -1,9 +1,8 @@
 ### Hello 👋, my name is Kamil Berenhard
-I am trying to become Java Developer[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='20'>](414141).   My programming journey i've started in High School where i first met C++.
 
 ### Skills
 * Java
-* Spring
+* Spring (Core, Boot, JDBC, Web, Security)
 * Hibernate
 * SQL
 
