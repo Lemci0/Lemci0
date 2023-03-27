@@ -2,8 +2,7 @@
 
 ### Skills
 * Java
-* Spring (Core, Boot, JDBC, Web, Security)
-* Hibernate
+* Spring
 * SQL
 
 ### Tools
