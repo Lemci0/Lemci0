@@ -7,7 +7,6 @@
 
 ### Tools
 * Maven
-* JUnit
 * Git
 
 
